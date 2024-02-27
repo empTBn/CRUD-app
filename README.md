@@ -13,3 +13,5 @@ Manejo de productos con atributos como arreglos:
 Opciones para agregar, consultar, editar y eliminar de la lista de productos
 
 Consultar permite acceder a la lista, además de filtrar por cantidad, costo y cantidad vendida
+
+Resultado final: no se puede acceder a la pantalla de consultar
